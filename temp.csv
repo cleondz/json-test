@@ -1,7 +1,2 @@
-"year","month","week","campaign_name","orders","quantity","amount"
-"2020","Aug","34","test","3","6","30.98"
-"2020","Aug","34","Copy of Copy of test","26","26","1763.45"
-"2021","Jan","1","tesr we","2","2","23.2"
-"2021","Jan","2","Kundenshop 2. Etage","1","1","16.2"
-"2021","Jan","4","Copy of Copy of Copy of asd","2","2","331.0"
-"2021","Jan","4","Copy of Copy of Copy of Copy of asd","4","4","520.0"
+year,month,week,campaign_name,orders,quantity,amount
+2020,Aug,34,test,3,6,30.98
